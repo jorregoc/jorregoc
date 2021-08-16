@@ -9,9 +9,6 @@ I enjoy telling stories with data, from the definition of the problem, analysis 
 - My website: [julianorregoweb](https://julianorregoweb.com/)
 
 
-I'm passionate about languages and travel🚀 and you can check my photos in [@julianenruta](https://www.instagram.com/julianenruta/)
-
-
 <!--
 **jorregoc/jorregoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
