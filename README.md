@@ -1,6 +1,6 @@
 ## Hello, I'm Julian 👋💻📊
 
-I enjoy telling stories with data, from the definition of the problem, analysis and data extraction with SAP, Excel, SQL and Python, to the construction of dashboards in tools such as Power BI, Google Data Studio and Microstrategy, to help in decision making. I 💚 learning constantly and I'm currently strengthening my profile in Data Science and Machine Learning.
+I enjoy telling stories with data, from the definition of the problem, analysis and data extraction with SAP, Excel, SQL and Python, to the construction of dashboards and models in tools such as Power BI, Google Data Studio and Microstrategy, to help in decision making. I 💚 learning constantly and I'm currently strengthening my profile in Machine Learning and Natural Lenguage Processing.
 
 ### Find me around the web 🌎:
 
